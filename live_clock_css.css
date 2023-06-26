@@ -1,0 +1,33 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
+marquee {
+    color: red;
+    font-size: 30px;
+    border: 2px solid #999999;
+    padding: 10px;
+    border-radius: 5px;
+}
+body {
+    background: linear-gradient(#f5f5f5, #3c8dbc)
+}
+.container {
+    text-align: center;
+    padding: 2px;
+    border: 2px solid white;
+    border-radius: 5px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 10px;
+    flex: 0.5;
+    display: inline-block;
+}
+.container-wrapper {
+    display: flex;
+}
+p {
+    font-size: 30px;
+}
